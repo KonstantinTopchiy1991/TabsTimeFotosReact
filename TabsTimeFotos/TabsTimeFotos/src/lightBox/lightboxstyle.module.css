@@ -1,0 +1,31 @@
+
+.btn{
+    width: 60px;
+    font-size: 80px;
+    padding-top: -50px;
+    display: inline-block;
+}
+.contents{
+    width: 500px;
+    display: inline-block;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.btni{
+    width: 400px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.btnImg{
+    border-radius: 50%;
+    border: none;
+    margin-left: 50px;
+}
+.content{
+    width: 620px;
+    margin: 0 auto;
+    margin-top: 100px;
+}

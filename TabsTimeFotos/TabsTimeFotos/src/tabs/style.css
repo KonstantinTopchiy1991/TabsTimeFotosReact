@@ -1,0 +1,17 @@
+.tab-list {
+    padding-left: 60px;
+    cursor: pointer;
+}
+
+.tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 15.50rem;
+}
+
+.tab-list-active {
+    background-color: white;
+    border: solid #ccc;
+    border-width: 1px 1px 10px 1px;
+}
